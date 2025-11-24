@@ -1,18 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <plugin id="com.github.continuedev.continueintellijextension">
-        <name>Continue</name>
-        <version>1.0.55</version>
-
-        <vendor>Continue Dev</vendor>
-
-        <description><![CDATA[
-        Continue IntelliJ Plugin
-        ]]></description>
-
-        <idea-version since-build="231" until-build="999.*"/>
-
-        <download-url>
-        https://github.com/PrateekJanagouda/continue-intellij-plugin/releases/download/v1.0.55/Continue_plugin_1.0.55.zip
-        </download-url>
-    </plugin>
+  <plugin id="com.github.continuedev.continueintellijextension"
+          url="https://github.com/PrateekJanagouda/continue-intellij-plugin/releases/download/v1.0.55/Continue_plugin_1.0.55.zip"
+          version="1.0.55">
+    <name>Synchronoss Continue</name>
+    <description>Synchronoss Continue IntelliJ Plugin</description>
+    <idea-version since-build="231" until-build="999.*"/>
+  </plugin>
 </plugins>
