@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   <plugin id="com.github.continuedev.continueintellijextension"
-          url="https://github.com/PrateekJanagouda/continue-intellij-plugin/releases/download/v1.0.55/synchronoss-jetbrains-continue-plugin-1.0.55.zip"
-          version="1.0.55">
+          url="https://github.com/PrateekJanagouda/continue-intellij-plugin/releases/download/v1.0.56/continue-intellij-extension.zip"
+          version="1.0.56">
     <name>Synchronoss Continue</name>
     <description>Synchronoss Continue IntelliJ Plugin</description>
     <idea-version since-build="231" until-build="999.*"/>
